@@ -1,0 +1,4 @@
+import pyttsx3
+engine = pyttsx3.init()
+engine.say("hello rachna this is a voice assistant")
+engine.runAndWait()
